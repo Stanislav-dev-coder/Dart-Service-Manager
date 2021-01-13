@@ -1,0 +1,21 @@
+@import "~normalize.css";
+@import "roboto.css";
+@import "raleway.css";
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    background-image: url(../img/bg1.jpg);
+    height: 100px;
+    width: 100px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
