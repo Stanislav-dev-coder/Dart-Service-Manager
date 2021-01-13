@@ -10,7 +10,7 @@ h2{
 }
 
 h1{
-    background-image: url(../img/bg1.jpg);
+    background-image: url(../img/bg1.jpg);//я знаю, что так нельзя, просто протестить background-image захотел
     height: 100px;
     width: 100px;
 }
